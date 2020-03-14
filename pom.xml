@@ -24,8 +24,8 @@
         </dependency>
     </dependencies>
     
-    <profile>
-    <id>perf</id>
+   
+    
     <build>
         <resources>
             <resource>
@@ -80,5 +80,4 @@
             </plugin>
         </plugins>
     </build>
-</profile>
 </project>
