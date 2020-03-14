@@ -57,7 +57,7 @@
                     <arguments>
                         <argument>-classpath</argument>
                         <classpath/>
-                        <argument>com.github.cukedoctor.CukedoctorBenchmark</argument>
+                        <argument>pl.luccasso.jmhtest.MainTest</argument>
                     </arguments>
                 </configuration>
             </plugin>
